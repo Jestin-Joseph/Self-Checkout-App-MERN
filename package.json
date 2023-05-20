@@ -1,0 +1,11 @@
+{
+  "name": "mern-self-checkout",
+  "version": "1.0.0",
+  "description": "Application to all customer to order and pay by onself at restaurants",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jestin Joseph",
+  "license": "ISC"
+}
